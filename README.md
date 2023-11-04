@@ -1,2 +1,2 @@
 # Hotel-Bookings-Data-Analysis-Python-Project
-In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. 
+#	Utilized Python to analyze data of hotel bookings for (Resort Hotel & City Hotel) and gain insights on why cancellation is happening in the higher range
